@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c39268e9-1ddd-4fb0-bc99-6b4a682bdd29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archivocomprimido.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/DescargaFichero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/ZipDirectorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/archivocomprimido.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/directoriosincomprimir/Nuevo Documento de Microsoft Word.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/directoriosincomprimir/Nuevo Presentación de Microsoft PowerPoint.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Futures/directoriosincomprimir/Nuevo documento de texto.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c39268e9-1ddd-4fb0-bc99-6b4a682bdd29" name="Changes" comment="initial comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674141403523</updated>
-      <workItem from="1674141405039" duration="333000" />
+      <workItem from="1674141405039" duration="660000" />
     </task>
+    <task id="LOCAL-00001" summary="initial comit">
+      <created>1674141870536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674141870536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,5 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial comit" />
   </component>
 </project>

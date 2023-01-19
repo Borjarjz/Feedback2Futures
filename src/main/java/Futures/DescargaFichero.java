@@ -10,7 +10,7 @@ import java.awt.Desktop;
 public class DescargaFichero {
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
         ExecutorService executor = Executors.newSingleThreadExecutor();
-        URL website = new URL("https://raw.githubusercontent.com/Borjarjz/Feedback2/master/textoleer.txt");
+        URL website = new URL("https://raw.githubusercontent.com/Borjarjz/Feedback2Futures/master/textoleer.txt");
 
         Future<File> future = executor.submit(() -> {
             try (ReadableByteChannel rbc = Channels.newChannel(website.openStream());
