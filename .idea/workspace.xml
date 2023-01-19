@@ -37,7 +37,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DescargaFichero">
+  <component name="RunManager" selected="Application.ZipDirectorio">
     <configuration name="DescargaFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Futures.DescargaFichero" />
       <module name="Feedback2Futures" />
@@ -66,8 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DescargaFichero" />
         <item itemvalue="Application.ZipDirectorio" />
+        <item itemvalue="Application.DescargaFichero" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674141403523</updated>
-      <workItem from="1674141405039" duration="660000" />
+      <workItem from="1674141405039" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="initial comit">
       <created>1674141870536</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674141870536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial comit">
+      <created>1674142334338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674142334338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
