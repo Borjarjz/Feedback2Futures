@@ -16,7 +16,8 @@ import java.util.zip.ZipOutputStream;
 
 
 //ESTA CLASE OBTENDRA LOS ARCHIVOS QUE HAY EN LA CARPETA "src/main/java/Futures/directoriosincomprimir" Y LOS COMPRIMIRA EN UN ARCHIVO ZIP LLAMADO "src/main/java/Futures/directorioscomprimidos/directorio.zip"
-public class ZipDirectorio {
+public class
+ZipDirectorio {
     public static void main(String[] args) {
         // Directorio original
         String sourceDir = "src/main/java/Futures/directoriosincomprimir";
